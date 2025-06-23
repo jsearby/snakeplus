@@ -9,7 +9,7 @@ import torch.nn as nn
 import torch.optim as optim
 from DQNAgent import DQNAgent
 from contants import *
-from train import load_model
+
 
 couleur_serpent = (50, 200, 50)  # Vert par défaut
 
