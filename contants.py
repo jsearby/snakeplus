@@ -1,0 +1,5 @@
+# Paramètres du jeu
+TAILLE_CASE = 20
+TAILLE = 20
+LARGEUR = 800
+HAUTEUR = 600
