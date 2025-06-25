@@ -1,10 +1,7 @@
 import pygame
 import sys
 import random
-import pickle
-import os
 import numpy as np
-from collections import deque
 from DQNAgent import DQNAgent
 from contants import *
 

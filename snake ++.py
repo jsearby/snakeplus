@@ -4,9 +4,6 @@ import time
 import math
 import numpy as np
 import random
-from collections import deque
-import torch.nn as nn
-import torch.optim as optim
 from DQNAgent import DQNAgent
 from contants import *
 
